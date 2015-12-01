@@ -1,1 +1,1 @@
-J'ai ajouté des fichiers css et html de mon exercice de cours précédent.
+J'ai ajouté des fichiers css et html de mon exercice de cours précédent.J'ai transformé mon site en responsive.
